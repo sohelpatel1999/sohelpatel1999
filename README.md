@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohel Patel</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [BharatNxt](https://bharatnxt.in/)
+- 🔭 I’m currently working in [BharatNxt](https://bharatnxt.in/)
 
-- 🌱 I’m currently learning **Cloud function,Javascript, Go Lang, Firestore**
+- 🌱 I’m currently learning **Cloud function, Javascript, Go Lang, Firestore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohelpatel1999](https://github.com/sohelpatel1999)
 
