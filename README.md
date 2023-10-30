@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [BharatNxt](https://bharatnxt.in/)
 
-- 🌱 I’m currently learning **Cloud function, Javascript, Go Lang, Firestore**
+- 🌱 I’m currently learning **Cloud function, Javascript, Go Lang, Firestore, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohelpatel1999](https://github.com/sohelpatel1999)
 
