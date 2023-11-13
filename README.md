@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BharatNxt](https://bharatnxt.in/)
 
-- 🌱 I’m currently learning **Cloud function,Javascript, Go Lang, Firestore**
+- 🌱 I’m currently learning **Cloud function,Javascript, GoLang, Firestore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohelpatel1999](https://github.com/sohelpatel1999)
 
