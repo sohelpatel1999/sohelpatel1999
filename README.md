@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohelpatel1999](https://github.com/sohelpatel1999)
 
-- 💬 Ask me about **Firestore Cloud Function, Go Lang, Javascript, Firebase**
+- 💬 Ask me about **Firestore Cloud Function, GoLang, Javascript, Firebase**
 
 - 📫 How to reach me **sohelpatel196@gmail.com**
 
